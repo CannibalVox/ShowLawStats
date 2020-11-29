@@ -1,0 +1,15 @@
+{
+    "Name":"showlawstats",		
+	"DisplayName":"Show Law Stats", 
+	"Desc":"Show stats for selected law in character creation screen.",
+	"UIPackage": null, 
+	"Author": "VoxTech",
+	"GameVersion":1.04,	
+	"Version":1.000000,	
+	"Sort":"1",
+	"Tags": [
+		"Usability",
+		"ExcludeRealmsHeaven",
+		"Non-Chinese"
+	]
+}
